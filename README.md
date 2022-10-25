@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Darkai24
+- 👀 I’m interested in Java, Python, C++, C# & PHP.
+- 🌱 I’m currently learning Ruby.
+- 👨‍💻 I'm currently studying an engineering.
+- 📫 How to reach me -> afrs2@live.com.mx
